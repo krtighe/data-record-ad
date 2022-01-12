@@ -1,3 +1,7 @@
+layout: page
+title: "IO Plugin Developer Guide"
+permalink: /plugindevguide/
+
 # Getting Started
 
 The Data Record AD Development Suite installs the IO Plugin Creation Toolkit, which includes a template project and scripting tool.
